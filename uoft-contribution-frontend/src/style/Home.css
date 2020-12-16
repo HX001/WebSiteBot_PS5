@@ -87,3 +87,9 @@
     width: 250px;
     margin: 10px;
 }
+
+.left{
+    Display: flex;
+    text-align: left;
+    align-items: left;
+}

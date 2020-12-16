@@ -62,7 +62,7 @@ class Header extends React.Component {
         return (
             <div className="app-header">
                 <Link to="/" className="logo">
-                    Header
+                    WebSiteBot
                 </Link>
                 <div className="DropDown">
                     <Dropdown>
