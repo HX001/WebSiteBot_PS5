@@ -27,7 +27,6 @@ class Supplier extends Component {
                             </Card.Body>
                         </Card>
                     </Col>
-
                     <Col className="SupplierCard">
                         <Card style={{ width: '18rem' }}>
                             <Card.Img variant="top" src="https://cdn.mos.cms.futurecdn.net/wiXtq4NPpGbNf6PEHTT4hg-1024-80.jpg.webp" />
@@ -37,7 +36,6 @@ class Supplier extends Component {
                             </Card.Body>
                         </Card>
                     </Col>
-
                     <Col className="SupplierCard">
                         <Card style={{ width: '18rem' }}>
                             <Card.Img variant="top" src="https://www.rhtc.com.au/Upload/RouseHillTownCentre/Media/Store-Logo/logo-target.jpg?width=250&height=161" />
